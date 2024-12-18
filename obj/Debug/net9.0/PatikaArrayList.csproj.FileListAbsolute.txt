@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\bin\Debug\net9.0\PatikaArrayList.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\bin\Debug\net9.0\PatikaArrayList.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\bin\Debug\net9.0\PatikaArrayList.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\bin\Debug\net9.0\PatikaArrayList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\bin\Debug\net9.0\PatikaArrayList.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\refint\PatikaArrayList.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\PatikaArrayList.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaArrayList\obj\Debug\net9.0\ref\PatikaArrayList.dll
